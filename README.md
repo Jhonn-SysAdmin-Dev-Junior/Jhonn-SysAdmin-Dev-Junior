@@ -26,3 +26,12 @@
 Seguir creciendo como técnico y/o desarrollador, aprendiendo de equipos reales, enfrentándome a nuevos retos y evolucionando constantemente. Me adapto con rapidez y me gusta buscar soluciones prácticas a los problemas técnicos.
 
 📫 ¡Estoy abierto a nuevas oportunidades y proyectos interesantes!
+
+🌐 Idiomas/Tecnologías que uso:
+HTML5 CSS3 JavaScript (Frontend)
+
+MySQL (Bases de datos)
+
+Java Markdown (Backend/Docs)
+
+Bootstrap Tailwind (Frameworks CSS)
