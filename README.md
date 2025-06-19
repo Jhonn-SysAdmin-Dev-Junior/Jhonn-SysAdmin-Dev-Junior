@@ -16,8 +16,6 @@
 ### 🧠 Redes y Seguridad:
 - Configuración de VLANs, reglas de firewall y troubleshooting **Sophos** y **Ruijie**
 
-<p><strong style="color:#00aaff;">Texto con color azul</strong></p>
-
 ### 👨‍💻 Desarrollo:
 - Scripts en **Bash** y automatización de tareas
 - Nociones de Programación en **Python** (scripts, automatización)
