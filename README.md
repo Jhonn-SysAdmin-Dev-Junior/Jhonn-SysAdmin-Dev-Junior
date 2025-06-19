@@ -27,11 +27,15 @@ Seguir creciendo como técnico y/o desarrollador, aprendiendo de equipos reales,
 
 📫 ¡Estoy abierto a nuevas oportunidades y proyectos interesantes!
 
-🌐 Idiomas/Tecnologías que uso:
-HTML5 CSS3 JavaScript (Frontend)
+## 🛠️ Herramientas  
+- **Packet Tracer** (Redes)  
+- **VS Code** (Editor)  
+- **Blender** (3D)  
 
-MySQL (Bases de datos)
+## 🌐 Tecnologías  
+- `HTML5` `CSS3` `JavaScript`  
+- `Java` `MySQL`  
 
-Java Markdown (Backend/Docs)
-
-Bootstrap Tailwind (Frameworks CSS)
+## 📱 Contacto  
+- [LinkedIn](enlace)  
+- [YouTube](enlace)  
