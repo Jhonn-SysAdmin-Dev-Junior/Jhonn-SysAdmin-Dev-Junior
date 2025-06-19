@@ -2,18 +2,15 @@
 
 🛠️ Técnico informático y desarrollador junior con fuerte interés en la infraestructura, automatización y desarrollo de software.
 
-📌 Aunque aún no tengo experiencia laboral profesional, cuento con una sólida base técnica adquirida durante mi formación y prácticas. Me he enfrentado a entornos reales y simulados donde he podido trabajar con tecnologías actuales tanto en la parte de sistemas como en el desarrollo.
+📌 Durante mi formación y prácticas me he enfrentado a entornos reales y simulados donde he podido trabajar con tecnologías actuales tanto en la parte de sistemas como en el desarrollo.
 
 ## 🔧 Áreas de conocimiento:
 
-### ⚙️ Administración de Sistemas:
-- Virtualización con **ProxmoxVE** y almacenamiento distribuido con **Ceph**
-- Gestión de contenedores con **Docker**
-- Configuración y mantenimiento de **servidores Linux y Windows**
-- Experiencia básica en **clústeres**, **firewalls**, **SDN**, y administración de **hardware** (routers, switches, etc.)
-
-### 🧠 Redes y Seguridad:
-- Configuración de VLANs, reglas de firewall y troubleshooting **Sophos** y **Ruijie**
+### ⚙️ Administración de Sistemas y redes:
+- Virtualización con `ProxmoxVE` e implementaciòn de `Clusters`
+- Gestión de contenedores con `Docker`
+- Configuración y mantenimiento de `servidores Linux y Windows`
+- Gestión de `firewalls (Sophos)`, VLANs, reglas de red, hardware y troubleshooting.
 
 ### 👨‍💻 Desarrollo:
 - Scripts en **Bash** y automatización de tareas
