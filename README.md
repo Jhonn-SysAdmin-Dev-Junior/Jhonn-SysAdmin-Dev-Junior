@@ -17,8 +17,10 @@
 - Nociones de desarrollo web con **PHP** y **JavaScript**
 - Conocimientos en **bases de datos relacionales** (MySQL)
 
-### Otras herramientas que uso:
+### 🛠️ Otras herramientas que uso:
 <img src="imgs/bootstrap.png" width=120> <img src="imgs/css.jpg" width=100> <img src="imgs/html.jpg" width=90> <img src="imgs/tailwind.png" width=110> <img src="imgs/windows.png" width=115> <img src="imgs/wordpress.png" width=115>
+
+## ⏳ Próximamente se añadirán nuevos repositorios. Me encuentro desarrollando proyectos que estarán disponibles en breve.
 
 ## 🚀 Objetivo profesional:
 Seguir creciendo como técnico y/o desarrollador, aprendiendo de equipos reales, enfrentándome a nuevos retos y evolucionando constantemente.
