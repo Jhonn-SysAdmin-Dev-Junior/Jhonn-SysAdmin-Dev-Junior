@@ -18,7 +18,7 @@
 - Conocimientos en **bases de datos relacionales** (MySQL)
 
 ### Otras herramientas que uso:
-<img src="imgs/bootstrap.png" width=120> <img src="imgs/css.jpg" width=100> <img src="imgs/html.jpg" width=70> <img src="imgs/tailwind.png" width=100> <img src="imgs/windows.png" width=100>
+<img src="imgs/bootstrap.png" width=120> <img src="imgs/css.jpg" width=100> <img src="imgs/html.jpg" width=90> <img src="imgs/tailwind.png" width=100> <img src="imgs/windows.png" width=100>
 
 ## 🚀 Objetivo profesional:
 Seguir creciendo como técnico y/o desarrollador, aprendiendo de equipos reales, enfrentándome a nuevos retos y evolucionando constantemente.
