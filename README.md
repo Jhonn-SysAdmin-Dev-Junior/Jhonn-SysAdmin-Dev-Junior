@@ -1,6 +1,6 @@
 <img src="imgs/gif.gif" width=900 height=200>
 
-### 👋 ¡Hola! Soy Jhon
+## 👋 ¡Hola! Soy Jhon
 
 🛠️ Técnico informático y desarrollador junior con fuerte interés en la infraestructura, automatización y desarrollo de software.
 
