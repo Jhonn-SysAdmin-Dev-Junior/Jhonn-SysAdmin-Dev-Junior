@@ -1,4 +1,6 @@
 # 👋 ¡Hola! Soy Jhon
+![Demo](imgs/welcome.gif)
+
 
 🛠️ Técnico informático y desarrollador junior con fuerte interés en la infraestructura, automatización y desarrollo de software.
 
